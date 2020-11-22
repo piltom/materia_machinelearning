@@ -1,11 +1,11 @@
 {"intents": [
         {"tag": "greeting",
-         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day", "Hello, good day", "hi, good day", "Hi, How are you?", "hi"],
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day", "Hello, good day", "hi, good day", "Hi, How are you?", "hi hello"],
          "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
          "context": [""]
         },
         {"tag": "goodbye",
-         "patterns": ["Bye", "bye, See you later", "Goodbye", "Nice chatting to you, bye", "Till next time", "see you, bye", "Goodbye, see you"],
+         "patterns": ["Bye", "bye, See you later", "Goodbye", "Nice chatting to you, bye", "Till next time", "see you, bye", "Goodbye, see you", "bye goodbye"],
          "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
          "context": [""]
         },
